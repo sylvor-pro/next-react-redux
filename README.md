@@ -18,7 +18,7 @@ bun dev
 ## 📚 Learn More
 
 To explore more about Next.js and enhance your development skills, check out the following resources:
-
+ 
 - 📘 [Next.js Documentation](https://nextjs.org/docs)  
   Learn about Next.js features, configuration, and API references.
 
