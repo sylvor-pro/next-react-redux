@@ -7,7 +7,7 @@ This project is built using [**Next.js**](https://nextjs.org/), bootstrapped wit
 ## 🛠️ Getting Started
 
 To get a local development environment running:
-
+ 
 ```bash
 npm run dev     # or
 yarn dev        # or
