@@ -3,11 +3,11 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 export interface ConfigurationState {
-btn:boolean
+  btn: boolean
 }
 
 const initialState: ConfigurationState = {
-btn:false
+  btn: false
 };
 
 const featureSlice = createSlice({
@@ -15,9 +15,9 @@ const featureSlice = createSlice({
   initialState,
   reducers: {
     setState: (state, action: PayloadAction<boolean>) => {
-      state.btn=action.payload;
+      state.btn = action.payload;
     },
-  
+
   },
 });
 
